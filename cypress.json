@@ -1,0 +1,10 @@
+{
+  "$schema": "https://on.cypress.io/cypress.schema.json",
+  "baseUrl": "https://demoqa.com",
+  "defaultCommandTimeout": 10000,
+  "taskTimeout": 90000,
+  "retries": {
+    "runMode": 1,
+    "openMode": 4
+  }
+}
